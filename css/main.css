@@ -1,0 +1,23 @@
+
+
+.left {
+	float: left;
+}
+.right{
+	float: right;
+}
+input {
+	border: transparent;
+}
+img {
+	border-radius: 50%;
+    height: 75px;
+    width: 75px;
+	text-align: center;
+}
+.photo {
+	text-align: center;
+}
+h1{
+	font-size: 60px;
+}
